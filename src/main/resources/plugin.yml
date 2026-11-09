@@ -1,0 +1,12 @@
+name: MundoMalco
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  mundomalco:
+    description: Opens the Mundo Maluco reality book.
+    usage: /mundomalco
+    aliases: [mm]
+  eternidade:
+    description: Invokes A Eternidade at a prepared altar.
+    usage: /eternidade
